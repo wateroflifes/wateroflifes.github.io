@@ -8,7 +8,15 @@
 
     <url>
         <loc>http://yoursite-url/2019/09/12/%E7%AC%AC%E4%BA%8C%E7%AF%87/</loc>
-        <lastmod>2019-09-12T09:35:15.552Z</lastmod>
+        <lastmod>2019-09-12T10:04:30.372Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/2017/03/18/hexo-theme-beantech/</loc>
+        <lastmod>2019-09-12T05:49:39.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
